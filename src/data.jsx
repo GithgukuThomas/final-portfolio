@@ -61,13 +61,13 @@ export const personalInfo = [
   {
     id: 1,
     title: "First Name : ",
-    description: "Steve",
+    description: "Thomas",
   },
 
   {
     id: 2,
     title: "Last Name : ",
-    description: "Milner",
+    description: "Githuku",
   },
 
   {
@@ -79,7 +79,7 @@ export const personalInfo = [
   {
     id: 4,
     title: "Nationality : ",
-    description: "Tunisian",
+    description: "Kenyan",
   },
 
   {
@@ -91,38 +91,38 @@ export const personalInfo = [
   {
     id: 6,
     title: "Address : ",
-    description: "Tunis",
+    description: "Nairobi, Kenya",
   },
 
   {
     id: 7,
     title: "Phone : ",
-    description: "+21621184010",
+    description: "+254 708 366 961",
   },
 
   {
     id: 8,
     title: "Email : ",
-    description: "you@mail.com",
+    description: "thomasngangagithuku@gmail.com",
   },
 
   {
     id: 9,
     title: "Skype : ",
-    description: "steve.milner",
+    description: "thomas.githuku",
   },
 
   {
     id: 10,
     title: "Langages : ",
-    description: "French, English",
+    description: "English, Swahili",
   },
 ];
 
 export const stats = [
   {
     id: 1,
-    no: "12+",
+    no: "5+",
     title: "Years of <br /> Experience",
   },
 
@@ -178,7 +178,7 @@ export const resume = [
     category: "education",
     icon: <FaGraduationCap />,
     year: "2015",
-    title: "Engineering Degree <span> Oxford University </span>",
+    title: "Engineering Degree <span> Mount Kenya University </span>",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore",
   },
 
@@ -187,7 +187,7 @@ export const resume = [
     category: "education",
     icon: <FaGraduationCap />,
     year: "2012",
-    title: "Master Degree <span> KIEV University </span>",
+    title: "Master Degree <span> Mount Kenya University </span>",
     desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
   },
 
@@ -196,7 +196,7 @@ export const resume = [
     category: "education",
     icon: <FaGraduationCap />,
     year: "2009",
-    title: "Bachelor Degree <span> Tunis High School </span>",
+    title: "Bachelor Degree <span> Mount Kenya University </span>",
     desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor ut labore",
   },
 ];
@@ -222,13 +222,13 @@ export const skills = [
 
   {
     id: 4,
-    title: "Php",
+    title: "TailwindCss",
     percentage: "66",
   },
 
   {
     id: 5,
-    title: "Wordpress",
+    title: "Shopify Development",
     percentage: "95",
   },
 
@@ -240,7 +240,7 @@ export const skills = [
 
   {
     id: 7,
-    title: "Angular",
+    title: "  TypeScript",
     percentage: "65",
   },
 
